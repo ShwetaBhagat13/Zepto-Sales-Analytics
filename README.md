@@ -1,5 +1,5 @@
 # Zepto-Sales Analytics Dashboard
-![ToDO-List](Dashboard-Overview.png)
+![Sales_Analytics](Presentation/Dashboard.png)
 
 ## Project Overview
 
